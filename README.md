@@ -5,7 +5,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Anna Kaliza] for the Lighthouse Labs Web Development Bootcamp.
 
 [Link Text](URL)
 ...taken by [Joel](https://github.com/JoelCodes) for the...
